@@ -1,0 +1,8 @@
+dog 0.9948 219 23 383 378
+person 0.0015 225 11 371 314
+pottedplant 0.0081 400 151 503 231
+pottedplant 0.0031 354 -15 435 184
+pottedplant 0.0023 344 -6 436 85
+pottedplant 0.0017 296 -3 346 41
+pottedplant 0.0016 268 -1 362 50
+pottedplant 0.0012 254 -7 489 85

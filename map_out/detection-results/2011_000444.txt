@@ -1,0 +1,7 @@
+bottle 0.0011 109 416 172 457
+person 0.0015 35 48 418 469
+pottedplant 0.0032 413 0 493 56
+pottedplant 0.0016 417 -2 473 35
+pottedplant 0.0010 -2 197 90 438
+tvmonitor 0.9998 19 2 490 459
+tvmonitor 0.0015 13 18 167 438
